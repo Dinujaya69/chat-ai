@@ -44,7 +44,7 @@ function App() {
             required
             value={question}
             onChange={(e) => setQuestion(e.target.value)}
-            placeholder="Type your question..."
+            placeholder="Type your question.."
           />
           <button
             type="submit"
